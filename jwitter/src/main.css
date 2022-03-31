@@ -1,0 +1,10 @@
+body {
+	background-color : black;
+	color:white;
+	font-size:16px;
+}
+
+.click {
+	border-radius:6px;
+	font-family: sans-serif;
+}
